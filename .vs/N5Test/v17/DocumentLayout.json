@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\N5Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36972F8A-4967-4964-AB01-DD67D94BBF7F}|PermissionsAPI.Tests\\PermissionsAPI.Tests.csproj|c:\\projects\\n5test\\permissionsapi.tests\\permissionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36972F8A-4967-4964-AB01-DD67D94BBF7F}|PermissionsAPI.Tests\\PermissionsAPI.Tests.csproj|solutionrelative:permissionsapi.tests\\permissionscontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36972F8A-4967-4964-AB01-DD67D94BBF7F}|PermissionsAPI.Tests\\PermissionsAPI.Tests.csproj|c:\\projects\\n5test\\permissionsapi.tests\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36972F8A-4967-4964-AB01-DD67D94BBF7F}|PermissionsAPI.Tests\\PermissionsAPI.Tests.csproj|solutionrelative:permissionsapi.tests\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3CFB318E-9CFD-45C6-B42F-7CEF24A634DE}|PermissionsAPI\\PermissionsAPI.csproj|c:\\projects\\n5test\\permissionsapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3CFB318E-9CFD-45C6-B42F-7CEF24A634DE}|PermissionsAPI\\PermissionsAPI.csproj|solutionrelative:permissionsapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 196,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PermissionsControllerTests.cs",
+              "DocumentMoniker": "C:\\Projects\\N5Test\\PermissionsAPI.Tests\\PermissionsControllerTests.cs",
+              "RelativeDocumentMoniker": "PermissionsAPI.Tests\\PermissionsControllerTests.cs",
+              "ToolTip": "C:\\Projects\\N5Test\\PermissionsAPI.Tests\\PermissionsControllerTests.cs",
+              "RelativeToolTip": "PermissionsAPI.Tests\\PermissionsControllerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:26:48.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Projects\\N5Test\\PermissionsAPI\\Dockerfile",
+              "RelativeDocumentMoniker": "PermissionsAPI\\Dockerfile",
+              "ToolTip": "C:\\Projects\\N5Test\\PermissionsAPI\\Dockerfile",
+              "RelativeToolTip": "PermissionsAPI\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-19T16:18:42.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Projects\\N5Test\\PermissionsAPI.Tests\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "PermissionsAPI.Tests\\DbContextFactory.cs",
+              "ToolTip": "C:\\Projects\\N5Test\\PermissionsAPI.Tests\\DbContextFactory.cs",
+              "RelativeToolTip": "PermissionsAPI.Tests\\DbContextFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:18:36.711Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
